@@ -21,10 +21,10 @@
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>x_2181528_library</scope>
+        <scope>x_soori_library</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
-        <source>x_2181528_library</source>
+        <source>x_soori_library</source>
         <store_correlation_id/>
         <store_url/>
         <subscription_entitlement/>
